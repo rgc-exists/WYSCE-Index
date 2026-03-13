@@ -1,0 +1,11 @@
+{
+	"name": "Testing Stuff",
+	"author": "RGC Exists",
+	"mod_id": "me.rgc_exists.testing_stuff",
+	"description": "Test description",
+	"version": "1.0.0",
+	"unlisted": false,
+	"linked_campaigns": [],
+	"dependencies": {},
+	"priority": 0
+}

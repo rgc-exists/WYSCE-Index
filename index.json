@@ -1,0 +1,8 @@
+{
+	"mods": {
+		"me.rgc_exists.test_mod": {
+			"json_filename": "me.rgc_exists.test_mod.json",
+			"mod_filename": "me.rgc_exists.test_mod.wysm"
+		}
+	}
+}
