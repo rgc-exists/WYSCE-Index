@@ -2,6 +2,7 @@
 	"mods": {
 		"me.rgc_exists.test_mod": {
 			"json_filename": "me.rgc_exists.test_mod.json",
+			"logo_filename": "me.rgc_exists.test_mod.png",
 			"mod_filename": "me.rgc_exists.test_mod.wysm"
 		}
 	}
